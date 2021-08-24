@@ -1,1 +1,1 @@
-
+This dataset contains Daily readings of Air Quality values for 5 months. The variables include Ozone, Solar radiation, Average wind speed, maximum daily temperature, month and day.
